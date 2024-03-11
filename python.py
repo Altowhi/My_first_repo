@@ -4,3 +4,8 @@ def hello():
 hello
 print('how are you')
 print('try to enhance the code')
+i = 9
+if i+1 != 11:
+    print('i =', i+1)
+else:
+    print('i = ',i)
